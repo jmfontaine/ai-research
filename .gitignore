@@ -5,3 +5,4 @@ __pycache__
 discogs-xml2db-analysis/discogs-xml2db/
 discogs-load-analysis/repo/
 discogs-vi-dataset-analysis/repo/
+discogs-xml-to-elasticsearch-repo/
