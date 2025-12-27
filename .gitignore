@@ -5,3 +5,8 @@ __pycache__
 discogs-xml2db-analysis/discogs-xml2db/
 discogs-load-analysis/repo/
 discogs-import-analysis/repo/
+discogs-dump-parser-repo/
+discogs-data-tools-analysis/repo/
+discogs-batch-analysis/repo/
+discogs-vi-dataset-analysis/repo/
+discogs-xml-to-elasticsearch-repo/
