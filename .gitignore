@@ -4,6 +4,7 @@ __pycache__
 # Cloned repositories for analysis (not to be committed)
 discogs-xml2db-analysis/discogs-xml2db/
 discogs-load-analysis/repo/
+discogs2pg-analysis/repo/
 discogs-import-analysis/repo/
 discogs-dump-parser-repo/
 discogs-data-tools-analysis/repo/
