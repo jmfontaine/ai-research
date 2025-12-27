@@ -1,2 +1,5 @@
 __pycache__
 .venv
+
+# Cloned repositories for analysis (not to be committed)
+discogs-xml2db-analysis/discogs-xml2db/
